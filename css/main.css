@@ -1,0 +1,23 @@
+
+img {
+	width: 100%;
+	height: auto;
+}
+h1 {
+	font-family: 'Anton', sans-serif;
+	color: #a3bbad;
+}
+p {
+	font-family: 'Gloria Hallelujah', cursive;
+	color: #93b7be;
+}
+
+body {
+	background-color: #0e3b43;
+}
+
+a {
+	font-family: 'Anton', sans-serif;
+	color: #a3bbad;
+	font-size: 30px;
+}
